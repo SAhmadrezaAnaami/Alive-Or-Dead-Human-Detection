@@ -3,5 +3,5 @@ this is a project that Detect and active(alive) or non-active(dead) human in fro
 
 
 
-Main Model
-![bg right:44%](https://github.com/SAhmadrezaAnaami/basics-of-AI-and-ML/blob/main/1.png)
+# Main Model architecture
+![bg right:44%](https://github.com/SAhmadrezaAnaami/Alive-Or-Dead-Human-Detection/blob/main/images/mainModel.png)
