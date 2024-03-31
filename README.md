@@ -23,3 +23,4 @@ link to image : https://buddhism.net/wp-content/uploads/2024/02/6a6522d8-cb48-13
 # Inception Model architecture
 
 ![bg](https://www.oreilly.com/api/v2/epubs/9781788297684/files/assets/aeee76d5-2e68-41dc-9df7-335e88166a31.png)
+![bg](https://www.scaler.com/topics/images/inception-network.webp)
