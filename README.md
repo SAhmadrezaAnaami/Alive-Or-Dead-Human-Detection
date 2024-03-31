@@ -43,5 +43,6 @@ main paper : https://doi.org/10.48550/arXiv.1409.4842
 ![bg](https://www.scaler.com/topics/images/inception-network.webp)
 
 
+# secondary model architecture
 
-
+![bg](https://github.com/SAhmadrezaAnaami/Alive-Or-Dead-Human-Detection/blob/main/images/SecondaryModel.png)
