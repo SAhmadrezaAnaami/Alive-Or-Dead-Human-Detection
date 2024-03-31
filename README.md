@@ -23,9 +23,17 @@ The most straightforward way of improving the performance of deep neural network
 width: the number of units at each level. This is as an easy and safe way of training higher quality
 models, especially given the availability of a large amount of labeled training data. However this
 simple solution comes with two major drawbacks.
+
 Bigger size typically means a larger number of parameters, which makes the enlarged network more
 prone to overfitting, especially if the number of labeled examples in the training set is limited.
-This can become a major bottleneck, since the creation of high quality training sets can be tricky
+This can become a major bottleneck, since the creation of high quality training sets can be tricky and expensive.
+
+Another drawback of uniformly increased network size is the dramatically increased use of computational resources. For example, in a deep vision network, if two convolutional layers are chained,
+any uniform increase in the number of their filters results in a quadratic increase of computation. If
+the added capacity is used inefficiently (for example, if most weights end up to be close to zero),
+then a lot of computation is wasted. Since in practice the computational budget is always finite, an
+efficient distribution of computing resources is preferred to an indiscriminate increase of size, even
+when the main objective is to increase the quality of results.
 
 
 # Inception Model architecture
