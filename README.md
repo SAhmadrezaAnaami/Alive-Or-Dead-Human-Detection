@@ -35,6 +35,7 @@ then a lot of computation is wasted. Since in practice the computational budget 
 efficient distribution of computing resources is preferred to an indiscriminate increase of size, even
 when the main objective is to increase the quality of results.
 
+main paper : https://doi.org/10.48550/arXiv.1409.4842
 
 # Inception Model architecture
 
