@@ -11,3 +11,9 @@ The inputs of the main model are 4 images of a humman in different time-frames (
 
 
 As you can see our main model Consist of Base Mdoel and a secondary Model. Base model is aan Inception Model in witch weights are freezed and a secondary model.
+
+
+# Inception Model
+
+![bg right:44%](https://buddhism.net/wp-content/uploads/2024/02/6a6522d8-cb48-13e9-af77-d3d96ec3eddd.jpg)
+link to image : https://buddhism.net/wp-content/uploads/2024/02/6a6522d8-cb48-13e9-af77-d3d96ec3eddd.jpg
