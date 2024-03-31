@@ -18,3 +18,8 @@ As you can see our main model Consist of Base Mdoel and a secondary Model. Base 
 ![bg](https://buddhism.net/wp-content/uploads/2024/02/6a6522d8-cb48-13e9-af77-d3d96ec3eddd.jpg)
 
 link to image : https://buddhism.net/wp-content/uploads/2024/02/6a6522d8-cb48-13e9-af77-d3d96ec3eddd.jpg
+
+
+# Inception Model architecture
+
+![bg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvko8oDsMGmVteZ6UPRVVf-IxhuFsh1CK3zHKlYOx2jK-irK7rDi7g1lQnEiURcpRhXw&usqp=CAU)
